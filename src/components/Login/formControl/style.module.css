@@ -1,0 +1,14 @@
+.formControl.error input {
+    border: solid 2px rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.formControl.error span {
+    display: block;
+    color: rgb(255, 0, 0);
+}
+
+.formControl {
+    margin: 15px;
+}
+

@@ -1,0 +1,3 @@
+-write in the terminal:
+yarn
+yarn start
